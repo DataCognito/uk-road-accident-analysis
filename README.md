@@ -69,7 +69,7 @@ Urban vs. Rural and DayNightUrban areas experienced a significantly higher numbe
 
 ## How to View
 
-1. Download the Excel file (`UK-Road-Accident-Analysis Dashboard.xlsx`).
+1. Download the Excel file (`UK-Road-Accident-Analysis.xlsx`).
 2. Open it in Microsoft Excel.
 3. Explore the different sheets
      `Raw Data`
