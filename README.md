@@ -35,8 +35,6 @@ The analysis was conducted using Microsoft Excel, leveraging its features like p
 
 ### Dashboard
 
-![Dashboard](Visualization/Dashboard.jpg)
-
 This dashboard provides an overview of the key performance indicators (KPIs) related to road accidents in the UK. It allows users to filter the data by year and urbanrural location and explore various visualizations, including
 
  Total casualties and their breakdown by severity.
@@ -46,12 +44,12 @@ This dashboard provides an overview of the key performance indicators (KPIs) rel
 
 ### Analysis Report
 
-![Analysis Report](Visualization/Analysis-Report.jpg)
-
 The analysis report provides a more detailed view of the data, including
 
  Monthly trends for 2021 and 2022, showing the total number of casualties for each month.
  Breakdown of casualties by area (urbanrural), light conditions (daynight), road surface, vehicle type, road type, and severity.
+
+Additional visualizations can be found in the [Visualization](Visualization/) folder.
 
 ## Key Findings
 
