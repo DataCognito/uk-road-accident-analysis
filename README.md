@@ -35,7 +35,7 @@ The analysis was conducted using Microsoft Excel, leveraging its features like p
 
 ### Dashboard
 
-![Dashboard](VisualizationsDashboard.jpg)
+![Dashboard](Visualization/Dashboard.jpg)
 
 This dashboard provides an overview of the key performance indicators (KPIs) related to road accidents in the UK. It allows users to filter the data by year and urbanrural location and explore various visualizations, including
 
@@ -46,7 +46,7 @@ This dashboard provides an overview of the key performance indicators (KPIs) rel
 
 ### Analysis Report
 
-![Analysis Report](VisualizationsAnalysis-Report.jpg)
+![Analysis Report](Visualization/Analysis-Report.jpg)
 
 The analysis report provides a more detailed view of the data, including
 
